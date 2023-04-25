@@ -6,6 +6,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="10sp"
         android:text="Open browser"
         android:id="@+id/brw"/>
 
@@ -24,6 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/add_data"
         android:text="submit"
+        android:layout_marginLeft="10sp"
         android:id="@+id/save"/>
 
 </RelativeLayout>
